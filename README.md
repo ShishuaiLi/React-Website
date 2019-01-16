@@ -1,4 +1,6 @@
-Instructions:
+A React.js website that supports live filtering.
+----------------------------------------------------------------------------------
+Instructions to deploy on static server::
 1. After unzip, in your terminal, cd to the directory "react".
 2. Make sure you have Node.js installed.
 3. Run "npm install -g serve" if serve is not installed.
